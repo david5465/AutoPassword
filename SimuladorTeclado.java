@@ -5,7 +5,7 @@ import java.awt.event.KeyEvent;
 public class SimuladorTeclado {
 
     public static void main(String[] args) {
-        String password = "N2H2vWw7E";
+        String password = "YOURPASSWORD";
 
         try {
             Robot robot = new Robot();
